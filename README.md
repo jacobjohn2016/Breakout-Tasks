@@ -18,3 +18,9 @@ pandas
 ```bash
 python3 place_id_request.py <place_id>
 ```
+
+E.g.
+
+```bash
+python3 place_id_request.py ChIJ9VXA4VnupzsRKuKD_dme5Uo
+```
