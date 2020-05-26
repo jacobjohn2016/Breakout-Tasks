@@ -1,5 +1,14 @@
 # Breakout Internship Tasks
 
+```bash
+  ____                 _               _   
+ | __ ) _ __ ___  __ _| | _____  _   _| |_ 
+ |  _ \| '__/ _ \/ _` | |/ / _ \| | | | __|
+ | |_) | | |  __/ (_| |   < (_) | |_| | |_ 
+ |____/|_|  \___|\__,_|_|\_\___/ \__,_|\__|
+                                           
+```
+
 **Description**: Build a simple tool to data scrap all google reviews based on a specific google place id and sharing a demo video of the tool.
 
 ## Requirements
